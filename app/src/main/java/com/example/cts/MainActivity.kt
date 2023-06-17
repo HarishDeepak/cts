@@ -44,4 +44,3 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
-https://github.com/johncodeos-blog/CarouselAndroidExample
